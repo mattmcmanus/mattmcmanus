@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hey friend 👋
+
+I wrote my first HTML and CSS in 2001 and I've been living the webmaster's dream ever since. 
+
+**🌟 Currently**: Product design, Javascript (Ember.js), Rails, whatever else needs to be done at @yappbox
 
 <!--
 **mattmcmanus/mattmcmanus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
